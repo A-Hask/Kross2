@@ -1,0 +1,22 @@
+{
+  "name": "kross2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-Hask/Kross2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A-Hask/Kross2/issues"
+  },
+  "homepage": "https://github.com/A-Hask/Kross2#readme",
+  "dependencies": {
+    "concurrently": "^7.4.0"
+  }
+}
